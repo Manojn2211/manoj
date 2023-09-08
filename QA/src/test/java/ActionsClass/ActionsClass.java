@@ -16,6 +16,7 @@ Actions act=new Actions(driver);
 //act.moveToElement(gmail).contextClick().perform();
 //act.moveToElement(gmail).click().perform();
 act.moveToElement(gmail).doubleClick().perform();
+		System.out.println("hello");
 	}
 
 }
