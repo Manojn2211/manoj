@@ -27,6 +27,8 @@ driver.switchTo().defaultContent();
 driver.switchTo().frame(2);
 String data3 = driver.findElement(By.xpath("//a[text()='org.openqa.selenium.bidi'][1]")).getText();
 System.out.println(data3);
+		hello
+		
 	}
 
 }
