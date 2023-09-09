@@ -14,7 +14,7 @@ public class pom_class {
 //initialization
 public pom_class(WebDriver driver ) {
 PageFactory.initElements(driver, this);
-	
+	sathi++
 	
 	}
 //implementation
